@@ -1,0 +1,1 @@
+A multi-touch attribution model in PyTorch based on an LSTM predictive model and GradientSHAP, achieving an 86% reduction in MSE compared to the last-touch heuristic when evaluated on Poisson process-generated data
